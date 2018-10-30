@@ -1,0 +1,216 @@
+28/10/2018 12:18:56,Unable to locate license key.
+28/10/2018 12:18:57,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 12:18:57,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 12:22:37,Unable to locate license key.
+28/10/2018 12:22:37,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 12:22:37,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 12:22:39,Unable to locate license key.
+28/10/2018 12:22:39,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 12:22:39,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 12:22:40,Unable to locate license key.
+28/10/2018 12:22:40,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 12:22:40,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 12:22:42,Unable to locate license key.
+28/10/2018 12:22:42,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 12:22:42,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 12:22:43,Unable to locate license key.
+28/10/2018 12:22:43,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 12:22:43,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 13:49:45,Unable to locate license key.
+28/10/2018 13:49:45,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 13:49:45,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 14:02:17,Unable to locate license key.
+28/10/2018 14:02:17,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 14:02:17,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 14:02:51,Unable to locate license key.
+28/10/2018 14:02:51,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 14:02:51,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 14:07:40,Unable to locate license key.
+28/10/2018 14:07:40,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 14:07:40,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 14:08:23,Unable to locate license key.
+28/10/2018 14:08:28,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 14:08:28,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+28/10/2018 17:23:40,Unable to locate license key.
+28/10/2018 17:23:42,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+28/10/2018 17:23:42,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 00:23:02,Unable to locate license key.
+29/10/2018 00:23:02,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 00:23:02,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 00:25:32,Unable to locate license key.
+29/10/2018 00:25:37,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 00:25:37,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:04:58,Unable to locate license key.
+29/10/2018 01:04:59,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:04:59,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:13:21,Unable to locate license key.
+29/10/2018 01:13:21,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:13:21,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:23:19,Unable to locate license key.
+29/10/2018 01:23:19,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:23:19,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:24:01,Unable to locate license key.
+29/10/2018 01:24:01,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:24:01,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:24:53,Unable to locate license key.
+29/10/2018 01:24:53,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:24:53,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:26:07,Unable to locate license key.
+29/10/2018 01:26:07,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:26:07,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:26:46,Unable to locate license key.
+29/10/2018 01:26:46,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:26:46,Could not find file 'C:\Program Files\IP2Location\IP2LOCATION-LITE-DB11.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:35:02,Unable to locate license key.
+29/10/2018 01:35:02,Could not find file '~/App_Data/IP2LOCATION-LITE-DB1.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:35:02,Could not find file '~/App_Data/IP2LOCATION-LITE-DB1.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:35:24,Unable to locate license key.
+29/10/2018 01:35:24,Could not find file '~/App_Data/IP2LOCATION-LITE-DB1.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:35:24,Could not find file '~/App_Data/IP2LOCATION-LITE-DB1.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:35:41,Unable to locate license key.
+29/10/2018 01:35:41,Could not find file 'IP2LOCATION-LITE-DB1.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:35:41,Could not find file 'IP2LOCATION-LITE-DB1.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:37:26,Unable to locate license key.
+29/10/2018 01:37:26,Could not find file '..\IP2LOCATION-LITE-DB1.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:37:26,Could not find file '..\IP2LOCATION-LITE-DB1.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:37:47,Unable to locate license key.
+29/10/2018 01:37:47,Could not find file '\IP2LOCATION-LITE-DB1.BIN'.---   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileInfo.get_Length()
+   at IP2Location.Component.CreateMemoryMappedFile()
+29/10/2018 01:37:47,Could not find file '\IP2LOCATION-LITE-DB1.BIN'. --    at IP2Location.Component.CreateMemoryMappedFile()
+   at IP2Location.Component.LoadBIN()
+29/10/2018 01:38:32,Unable to locate license key.
+29/10/2018 01:41:28,Unable to locate license key.
+29/10/2018 01:43:22,Unable to locate license key.
+29/10/2018 01:49:01,Unable to locate license key.
+29/10/2018 01:50:24,Unable to locate license key.
+30/10/2018 03:13:58,Unable to locate license key.
+30/10/2018 03:16:10,Unable to locate license key.
+30/10/2018 03:16:53,Unable to locate license key.
+30/10/2018 03:24:55,Unable to locate license key.
+30/10/2018 03:25:16,Unable to locate license key.
+30/10/2018 03:28:31,Unable to locate license key.
+30/10/2018 03:35:50,Unable to locate license key.
+30/10/2018 03:35:57,Unable to locate license key.
+30/10/2018 03:36:51,Unable to locate license key.
+30/10/2018 03:36:55,Unable to locate license key.
+30/10/2018 03:37:22,Unable to locate license key.
+30/10/2018 03:37:25,Unable to locate license key.
+30/10/2018 03:37:52,Unable to locate license key.
+30/10/2018 03:41:42,Unable to locate license key.
+30/10/2018 03:44:40,Unable to locate license key.
+30/10/2018 03:46:50,Unable to locate license key.
+30/10/2018 03:47:25,Unable to locate license key.
+30/10/2018 03:47:29,Unable to locate license key.
+30/10/2018 03:50:48,Unable to locate license key.
+30/10/2018 04:00:05,Unable to locate license key.
+30/10/2018 04:01:00,Unable to locate license key.
+30/10/2018 04:03:02,Unable to locate license key.
+30/10/2018 04:03:37,Unable to locate license key.
+30/10/2018 04:04:21,Unable to locate license key.
+30/10/2018 04:04:42,Unable to locate license key.
+30/10/2018 04:04:47,Unable to locate license key.
+30/10/2018 04:04:54,Unable to locate license key.
+30/10/2018 04:05:06,Unable to locate license key.
+30/10/2018 04:06:10,Unable to locate license key.
+30/10/2018 04:06:14,Unable to locate license key.
+30/10/2018 04:06:18,Unable to locate license key.
+30/10/2018 04:06:20,Unable to locate license key.
+30/10/2018 14:04:17,Unable to locate license key.
+30/10/2018 14:36:41,Unable to locate license key.
+30/10/2018 14:42:34,Unable to locate license key.
+30/10/2018 14:49:08,Unable to locate license key.
+30/10/2018 14:58:57,Unable to locate license key.
+30/10/2018 14:59:35,Unable to locate license key.
+30/10/2018 15:00:46,Unable to locate license key.
+30/10/2018 15:01:40,Unable to locate license key.
+30/10/2018 15:05:36,Unable to locate license key.
+30/10/2018 15:08:33,Unable to locate license key.
+30/10/2018 15:08:37,Unable to locate license key.
+30/10/2018 15:09:09,Unable to locate license key.
+30/10/2018 15:13:52,Unable to locate license key.
+30/10/2018 15:14:31,Unable to locate license key.
+30/10/2018 15:15:05,Unable to locate license key.
+30/10/2018 15:16:17,Unable to locate license key.
+30/10/2018 15:17:07,Unable to locate license key.
+30/10/2018 15:18:23,Unable to locate license key.
+30/10/2018 15:19:36,Unable to locate license key.
+30/10/2018 15:19:43,Unable to locate license key.
+30/10/2018 15:19:57,Unable to locate license key.
+30/10/2018 15:20:39,Unable to locate license key.
+30/10/2018 15:21:54,Unable to locate license key.

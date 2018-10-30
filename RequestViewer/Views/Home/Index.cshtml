@@ -1,0 +1,55 @@
+﻿@model RequestViewer.Models.KeyValuePairs
+
+@{
+    ViewBag.Title = "Home Page";
+}
+<div class="download-link">
+    <input class="download-tb page-font" readonly="" spellcheck="true" type="text" value="@Url.Action("GetJson", "Home", null, Request.Url.Scheme)">
+    <div id="download-btn" class="download-btn" type="button">Download</div>
+    <input id="file-dialog" type="file" name="name" style="display: none;" />
+</div>
+<div>
+    <h1>Request Details</h1>
+    <p class="page-font description">
+        If you need to see what other websites see when you request, look no further than here! We also have a JSON service that anyone is free to use to get all details on this page any time they want no limits, enjoy!
+    </p>
+    <p class="page-font bold">
+        Your IP is: <span>@Model.IP</span>
+    </p>
+</div>
+<div class="table-back">
+    <div class="table-padding">
+        <table class="table-override table">
+            <tbody>
+                <tr class="no-border">
+                    <th class="bold no-border">Key</th>
+                    <th class="bold no-border">Value</th>
+                </tr>
+                @if (@Model.GeoLocation != null)
+                {
+                    <tr>
+                        <td>COUNTRY</td>
+                        <td>@Model.GeoLocation.CountryLong - @Model.GeoLocation.CountryShort</td>
+                    </tr>
+                }
+                @for (int i = 0; i < Model.Data.Count; i++)
+                {
+                    if (!string.IsNullOrEmpty(Model.Data[i].Value))
+                    {
+                        <tr>
+                            <td>@Model.Data[i].Key</td>
+                            <td contenteditable="false">@Model.Data[i].Value</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+@Scripts.Render("~/Scripts/jquery-1.10.2.js")
+@Scripts.Render("~/Scripts/FileSaver/filesaver.js")
+@Scripts.Render("~/Scripts/toastr/toastr.min.js")
+@Scripts.Render("~/Scripts/download-json.js")
+
+@Styles.Render("~/Content/toastr/toastr.css")

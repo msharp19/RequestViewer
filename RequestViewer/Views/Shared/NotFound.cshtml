@@ -1,0 +1,22 @@
+﻿@{
+    ViewBag.Title = "Page Not Found";
+}
+
+<div class="hold-tight">
+    <div id="notfound">
+        <div class="notfound">
+            <div class="notfound-404">
+                <div></div>
+                <h1>404</h1>
+            </div>
+            <h2>Page not found</h2>
+            <p>The page you are looking for might have been removed had its name changed or is temporarily unavailable.</p>
+            <a href="@Url.Action("Index", "Home", null, Request.Url.Scheme)">home page</a>
+        </div>
+    </div>
+    <!-- This templates was made by Colorlib (https://colorlib.com) -->
+</div>
+
+@* Error page must be longer than 512 bytes for IE and Chrome to show it. 
+   So add padding in case we're short. *@
+@(new string(' ', 512))
