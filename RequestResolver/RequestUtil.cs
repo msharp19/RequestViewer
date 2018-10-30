@@ -76,8 +76,8 @@ namespace RequestResolver
         private static string GetGeoDBLocation()
         {
             var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);
-            var iconPath = Path.Combine(outPutDirectory, "IP2LOCATION-LITE-DB1.BIN");
-            return new Uri(iconPath).LocalPath;
+            var path = Path.Combine(outPutDirectory, "IP2LOCATION-LITE-DB1.BIN");
+            return new Uri(path).LocalPath;
         }
     }
 }
