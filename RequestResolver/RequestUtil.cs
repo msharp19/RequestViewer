@@ -1,8 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
+using System.IO;
 using System.Linq;
 using System.Net;
 using System.Net.Sockets;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using System.Web;
@@ -38,7 +41,7 @@ namespace RequestResolver
             {
                 if (!string.IsNullOrEmpty(strIPAddress))
                 {
-                    oIP2Location.IPDatabasePath = @"c:\users\waili\onedrive\documents\visual studio 2015\Projects\RequestViewer\RequestResolver\IP2LOCATION-LITE-DB1.BIN";
+                    oIP2Location.IPDatabasePath = GetGeoDBLocation();
                     oIPResult = oIP2Location.IPQuery(strIPAddress);
                     switch (oIPResult.Status.ToString())
                     {
@@ -68,6 +71,13 @@ namespace RequestResolver
                 oIP2Location = null;
             }
             return null;
+        }
+
+        private static string GetGeoDBLocation()
+        {
+            var outPutDirectory = Path.GetDirectoryName(Assembly.GetExecutingAssembly().CodeBase);
+            var iconPath = Path.Combine(outPutDirectory, "IP2LOCATION-LITE-DB1.BIN");
+            return new Uri(iconPath).LocalPath;
         }
     }
 }
